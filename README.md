@@ -1,0 +1,1 @@
+Python encryption and decryption tool that on encryption gives you code which you can decrypt using the same program and getting an original message . There are two versions ,the difference is that in extended version , the message gets encrypted and decrypted twice making the code larger and more "secure" .
